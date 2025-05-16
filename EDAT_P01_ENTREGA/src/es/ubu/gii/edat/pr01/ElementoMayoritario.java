@@ -5,8 +5,6 @@ package es.ubu.gii.edat.pr01;
 /**
  * Clase que alberga el código completo para la Práctica 01
  * 
- * @author Adrian Ortega Moradillo
- * @author Jon Ander Icera Moreno
  *
  */
 public class ElementoMayoritario {
